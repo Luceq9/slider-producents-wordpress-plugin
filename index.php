@@ -1,10 +1,9 @@
 <?php
 /*
-/*
 Plugin Name: Slider Producents
 Description: A simple slider plugin for displaying producents.
 Version: 1.0
-Author: Your Name
+Author: Luceq
 */
 
 function slider_producents_enqueue_scripts() {
